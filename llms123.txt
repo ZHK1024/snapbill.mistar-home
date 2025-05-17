@@ -1,0 +1,17 @@
+# CHM+ 
+
+> CHM+ is a powerful and user-friendly app designed to help iPhone and iPad users easily read CHM files, offering a seamless and efficient reading experience.
+
+## Core Features
+- [CHM File Reader](https://chm.mistar.tech/): Learn how CHM+ simplifies reading CHM files on iOS devices.
+- [File Management](https://yourwebsite.com/file-management): Discover how to organize and manage your CHM files effortlessly.
+- [Reading Modes](https://yourwebsite.com/reading-modes): Explore features like night mode and adjustable font sizes for a better reading experience.
+
+## Useful Resources
+- [User Guide](https://yourwebsite.com/user-guide): Step-by-step instructions to get started with CHM+.
+- [FAQ](https://chm.mistar.tech/faq): Find answers to common questions about CHM+.
+- [Support](https://chm.mistar.tech/support): Contact our team for assistance or troubleshooting.
+
+## Latest Updates
+- [New Feature: Enhanced File Import](https://yourwebsite.com/latest1): Released in April 2025, making file imports faster and more reliable.
+- [Performance Improvements](https://yourwebsite.com/latest2): Updated in April 2025 to ensure smoother navigation and better compatibility.
