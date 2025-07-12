@@ -1,242 +1,202 @@
 [
     {
-        "currency": "AED",
-        "buyPrice": 194.13,
-        "sellPrice": 196.87,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "AED",
+        "b": 194.13,
+        "s": 196.87
     },
     {
-        "currency": "AUD",
-        "buyPrice": 467.79,
-        "sellPrice": 471.51,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "AUD",
+        "b": 467.79,
+        "s": 471.51
     },
     {
-        "currency": "BND",
-        "buyPrice": 516.01,
-        "sellPrice": 605.75,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "BND",
+        "b": 516.01,
+        "s": 605.75
     },
     {
-        "currency": "BRL",
-        "buyPrice": 125,
-        "sellPrice": 139.33,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "BRL",
+        "b": 125,
+        "s": 139.33
     },
     {
-        "currency": "CAD",
-        "buyPrice": 522.92,
-        "sellPrice": 527.03,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "CAD",
+        "b": 522.92,
+        "s": 527.03
     },
     {
-        "currency": "CHF",
-        "buyPrice": 900.61,
-        "sellPrice": 907.57,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "CHF",
+        "b": 900.61,
+        "s": 907.57
     },
     {
-        "currency": "CZK",
-        "buyPrice": 30.38,
-        "sellPrice": 37.9,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "CZK",
+        "b": 30.38,
+        "s": 37.9
     },
     {
-        "currency": "DKK",
-        "buyPrice": 112.34,
-        "sellPrice": 113.24,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "DKK",
+        "b": 112.34,
+        "s": 113.24
     },
     {
-        "currency": "EUR",
-        "buyPrice": 838.59,
-        "sellPrice": 844.74,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "EUR",
+        "b": 838.59,
+        "s": 844.74
     },
     {
-        "currency": "GBP",
-        "buyPrice": 973.2,
-        "sellPrice": 980.43,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "GBP",
+        "b": 973.2,
+        "s": 980.43
     },
     {
-        "currency": "HKD",
-        "buyPrice": 91.3,
-        "sellPrice": 91.66,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "HKD",
+        "b": 91.3,
+        "s": 91.66
     },
     {
-        "currency": "HUF",
-        "buyPrice": 2.0822,
-        "sellPrice": 2.1242,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "HUF",
+        "b": 2.0822,
+        "s": 2.1242
     },
     {
-        "currency": "IDR",
-        "buyPrice": 0.0438,
-        "sellPrice": 0.0446,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "IDR",
+        "b": 0.0438,
+        "s": 0.0446
     },
     {
-        "currency": "ILS",
-        "buyPrice": 194.45,
-        "sellPrice": 237.66,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "ILS",
+        "b": 194.45,
+        "s": 237.66
     },
     {
-        "currency": "INR",
-        "buyPrice": 7.9445,
-        "sellPrice": 8.858,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "INR",
+        "b": 7.9445,
+        "s": 8.858
     },
     {
-        "currency": "JPY",
-        "buyPrice": 4.8871,
-        "sellPrice": 4.9248,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "JPY",
+        "b": 4.8871,
+        "s": 4.9248
     },
     {
-        "currency": "KHR",
-        "buyPrice": 0.159,
-        "sellPrice": 0.1987,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "KHR",
+        "b": 0.159,
+        "s": 0.1987
     },
     {
-        "currency": "KRW",
-        "buyPrice": 0.5189,
-        "sellPrice": 0.5278,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "KRW",
+        "b": 0.5189,
+        "s": 0.5278
     },
     {
-        "currency": "KWD",
-        "buyPrice": 2093.17,
-        "sellPrice": 2610.59,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "KWD",
+        "b": 2093.17,
+        "s": 2610.59
     },
     {
-        "currency": "MNT",
-        "buyPrice": 0.1862,
-        "sellPrice": 0.2142,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "MNT",
+        "b": 0.1862,
+        "s": 0.2142
     },
     {
-        "currency": "MOP",
-        "buyPrice": 88.63,
-        "sellPrice": 89.04,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "MOP",
+        "b": 88.63,
+        "s": 89.04
     },
     {
-        "currency": "MXN",
-        "buyPrice": 38.27,
-        "sellPrice": 39.05,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "MXN",
+        "b": 38.27,
+        "s": 39.05
     },
     {
-        "currency": "MYR",
-        "buyPrice": 168.35,
-        "sellPrice": 169.87,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "MYR",
+        "b": 168.35,
+        "s": 169.87
     },
     {
-        "currency": "NOK",
-        "buyPrice": 70.86,
-        "sellPrice": 71.42,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "NOK",
+        "b": 70.86,
+        "s": 71.42
     },
     {
-        "currency": "NPR",
-        "buyPrice": 4.2744,
-        "sellPrice": 6.0763,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "NPR",
+        "b": 4.2744,
+        "s": 6.0763
     },
     {
-        "currency": "NZD",
-        "buyPrice": 429.31,
-        "sellPrice": 432.54,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "NZD",
+        "b": 429.31,
+        "s": 432.54
     },
     {
-        "currency": "PHP",
-        "buyPrice": 12.58,
-        "sellPrice": 12.84,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "PHP",
+        "b": 12.58,
+        "s": 12.84
     },
     {
-        "currency": "PKR",
-        "buyPrice": 2.0706,
-        "sellPrice": 2.9796,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "PKR",
+        "b": 2.0706,
+        "s": 2.9796
     },
     {
-        "currency": "QAR",
-        "buyPrice": 175.35,
-        "sellPrice": 218.69,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "QAR",
+        "b": 175.35,
+        "s": 218.69
     },
     {
-        "currency": "RSD",
-        "buyPrice": 7.1092,
-        "sellPrice": 7.2528,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "RSD",
+        "b": 7.1092,
+        "s": 7.2528
     },
     {
-        "currency": "RUB",
-        "buyPrice": 8.8,
-        "sellPrice": 9.25,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "RUB",
+        "b": 8.8,
+        "s": 9.25
     },
     {
-        "currency": "SAR",
-        "buyPrice": 190.12,
-        "sellPrice": 192.8,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "SAR",
+        "b": 190.12,
+        "s": 192.8
     },
     {
-        "currency": "SEK",
-        "buyPrice": 75.11,
-        "sellPrice": 75.71,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "SEK",
+        "b": 75.11,
+        "s": 75.71
     },
     {
-        "currency": "SGD",
-        "buyPrice": 558.92,
-        "sellPrice": 563.12,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "SGD",
+        "b": 558.92,
+        "s": 563.12
     },
     {
-        "currency": "THB",
-        "buyPrice": 21.88,
-        "sellPrice": 22.06,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "THB",
+        "b": 21.88,
+        "s": 22.06
     },
     {
-        "currency": "TRY",
-        "buyPrice": 16.67,
-        "sellPrice": 19.19,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "TRY",
+        "b": 16.67,
+        "s": 19.19
     },
     {
-        "currency": "TWD",
-        "buyPrice": 23.62,
-        "sellPrice": 25.88,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "TWD",
+        "b": 23.62,
+        "s": 25.88
     },
     {
-        "currency": "USD",
-        "buyPrice": 716.74,
-        "sellPrice": 719.75,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "USD",
+        "b": 716.74,
+        "s": 719.75
     },
     {
-        "currency": "VND",
-        "buyPrice": 0.0261,
-        "sellPrice": 0.0289,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "VND",
+        "b": 0.0261,
+        "s": 0.0289
     },
     {
-        "currency": "ZAR",
-        "buyPrice": 40.2,
-        "sellPrice": 40.67,
-        "publishDate": "2025-07-09 22:31:39"
+        "c": "ZAR",
+        "b": 40.2,
+        "s": 40.67
     }
-]    
+]
